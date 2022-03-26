@@ -1,0 +1,7 @@
+body{
+background-color: cyan;
+}
+
+table,th,td,tr{
+    border: 5px solid red;
+}
